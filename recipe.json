@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Instant Pot Irish Guinness Stew",
+  "description": "A rich and hearty Irish stew made with stewing beef, streaky bacon, carrots, onions, and Guinness in an Instant Pot Rio pressure cooker.",
+  "recipeCuisine": "Irish",
+  "recipeCategory": "Dinner",
+  "keywords": [
+    "Irish stew",
+    "Instant Pot",
+    "pressure cooker",
+    "Guinness stew",
+    "beef stew"
+  ],
+  "yield": "4-6 servings",
+  "prepTime": "PT20M",
+  "cookTime": "PT45M",
+  "totalTime": "PT65M",
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Instant Pot Rio Pressure Cooker"
+    }
+  ],
+  "recipeIngredient": [
+    "600 g stewing steak, cut into large chunks",
+    "150 g streaky bacon, chopped",
+    "2 medium onions, sliced",
+    "3 large carrots, chopped",
+    "3 cloves garlic, minced",
+    "330 ml can Guinness stout",
+    "500 ml beef stock",
+    "2 tbsp tomato purée",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp dried thyme",
+    "2 bay leaves",
+    "1 tbsp plain flour",
+    "1 tbsp vegetable oil",
+    "Salt, to taste",
+    "Black pepper, to taste",
+    "2 tbsp chopped fresh parsley (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Brown the bacon",
+      "text": "Set the Instant Pot to Sauté mode. Add the chopped streaky bacon and cook until browned and releasing fat, about 5 minutes. Remove and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Brown the beef",
+      "text": "Add vegetable oil if needed. Toss the beef with flour, salt, and pepper. Brown the beef in batches for 2-3 minutes per side. Remove and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook the vegetables",
+      "text": "Add onions and carrots to the pot and sauté for 4-5 minutes until softened. Stir in the garlic and cook for 30 seconds."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Deglaze the pot",
+      "text": "Pour in the Guinness and scrape the bottom of the pot thoroughly to release any browned bits."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Combine ingredients",
+      "text": "Return the beef and bacon to the pot. Add beef stock, tomato purée, Worcestershire sauce, thyme, and bay leaves. Stir well."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Pressure cook",
+      "text": "Seal the lid and set the Instant Pot to Pressure Cook (High) for 35 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Release pressure",
+      "text": "Allow a natural pressure release for 10 minutes, then carefully quick release any remaining pressure."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Finish and serve",
+      "text": "Remove bay leaves. Taste and adjust seasoning. If a thicker stew is desired, use Sauté mode for a few minutes to reduce further. Garnish with parsley before serving."
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "520 calories"
+  }
+}
